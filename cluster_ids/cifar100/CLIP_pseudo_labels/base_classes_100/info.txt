@@ -1,0 +1,2 @@
+generated with openclip_ViT-bigG-14/laion2b
+
